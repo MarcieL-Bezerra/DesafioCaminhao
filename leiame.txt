@@ -1,0 +1,12 @@
+Para criação dessa solução, foi usada a linguagem Python
+
+1 Usada a maquina virtual (desafio-env) use o
+  .\desafio-env\Scripts\activate.ps1 
+  para ativar
+
+  caso esteja usando win10 precisa liberar o powershell usando
+  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+
+
+  esse sistema foi criado com base em um freelance que fiz recentemente.
